@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: djqzsa6aa
+  api_key: '622676521332827'
+  api_secret: SSB9SMmyRsp2W_zB_1gBD-InU2g
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: djqzsa6aa
+  api_key: '622676521332827'
+  api_secret: SSB9SMmyRsp2W_zB_1gBD-InU2g
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: djqzsa6aa
+  api_key: '622676521332827'
+  api_secret: SSB9SMmyRsp2W_zB_1gBD-InU2g
+  enhance_image_tag: true
+  static_image_support: false
